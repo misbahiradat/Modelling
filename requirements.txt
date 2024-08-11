@@ -103,7 +103,6 @@ optree==0.12.1
 orjson==3.10.6
 packaging==24.1
 pandas==2.1.4
-pandas-profiling==3.6.6
 parso==0.8.4
 patsy==0.5.6
 phik==0.12.4
