@@ -1,6 +1,6 @@
 [theme]
 base="light"
-primaryColor="#FFFFFF"  # White for the primary interface elements
+primaryColor="#87CEEB"  # White for the primary interface elements
 backgroundColor="#FFFFFF"  # White for the main background
 secondaryBackgroundColor="#87CEEB"  # Light blue for the sidebar
 textColor="#000000"  # Black text for readability on the light background
