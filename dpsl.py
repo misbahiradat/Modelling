@@ -50,7 +50,7 @@ st.sidebar.title('Model Selection')
 app_mode = st.sidebar.radio("Choose the Mode", ["Weight Modeling", "Drops Modeling"])
 
 if app_mode == "Weight Modeling":
-    st.title("Weight Cohorts Predictive Modeling with LightGBM")
+    st.title("Weight Cohorts Predictive Modeling")
 
     train_file = st.file_uploader("Upload Training Data (.xlsx)", type='xlsx', key="train")
     test_file = st.file_uploader("Upload Testing Data (.xlsx)", type='xlsx', key="test")
