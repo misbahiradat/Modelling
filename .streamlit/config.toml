@@ -5,5 +5,5 @@ backgroundColor="#FFFFFF"  # White for the main background
 secondaryBackgroundColor="#87CEEB"  # Light blue for the sidebar
 textColor="#000000"  # Black text for readability on the light background
 font="sans serif"  # Keeping the sans serif font for a modern look
-buttonHoverColor="#B0E2FF"  # Lighter blue for button hover
-buttonActiveColor="#4a86e8"  # A brighter blue for button active/tap state
+buttonHoverColor="#E0F2FF"  # Very light blue for button hover
+buttonActiveColor="#B0E0E6"  # Slightly deeper light blue for button active/tap state
