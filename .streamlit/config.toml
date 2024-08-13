@@ -1,7 +1,7 @@
 [theme]
 base="light"
-primaryColor="#4a86e8"  
-backgroundColor="#252526" 
-secondaryBackgroundColor="#333333" 
-textColor="#FFFFFF" 
-font="sans serif" 
+primaryColor="#FFFFFF"  # White for the primary interface elements
+backgroundColor="#FFFFFF"  # White for the main background
+secondaryBackgroundColor="#87CEEB"  # Light blue for the sidebar
+textColor="#000000"  # Black text for readability on the light background
+font="sans serif"  # Keeping the sans serif font for a modern look
